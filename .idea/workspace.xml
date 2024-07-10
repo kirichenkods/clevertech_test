@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22b887ef-c5e5-49fb-a991-527c4506fb87" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clev_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/ArgType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/BadRequestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/CheckPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/CheckRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/ClassType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/CreatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/DataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/DataReaderFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/DataWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/DataWriterInFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/DebitCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/DiscountCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/ErrMessenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/FilePathConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/InternalServerErrorException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/NotEnoughMoneyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/PrinterToCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/PrinterToConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/clevertec/check/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/discountCards.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/products.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2iepu2XSK2KLUI7gD7nccYIYsgM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/projects/clev_test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CheckRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.ru.clevertec.check.CheckRunner" />
+      <module name="clev_test" />
+      <option name="PROGRAM_PARAMETERS" value="1-4 2-5 discountCard=7771 balanceDebitCard=100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.ru.clevertec.check.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CheckRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22b887ef-c5e5-49fb-a991-527c4506fb87" name="Changes" comment="" />
+      <created>1719861117206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719861117206</updated>
+      <workItem from="1719861118412" duration="1678000" />
+      <workItem from="1719938948816" duration="7669000" />
+      <workItem from="1720026584978" duration="10158000" />
+      <workItem from="1720081186426" duration="14000" />
+      <workItem from="1720109430974" duration="3732000" />
+      <workItem from="1720195382215" duration="711000" />
+      <workItem from="1720196333268" duration="10649000" />
+      <workItem from="1720253060400" duration="27626000" />
+      <workItem from="1720336000871" duration="24431000" />
+      <workItem from="1720458162391" duration="8890000" />
+      <workItem from="1720540562745" duration="12083000" />
+      <workItem from="1720625471347" duration="12480000" />
+      <workItem from="1720640202477" duration="1165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
